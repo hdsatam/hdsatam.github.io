@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "707c92c29e587baa0ef201a681e6bb4f",
+    "revision": "b4f9bf11cbbfc54f7bb20b89db7d7822",
     "url": "/index.html"
   },
   {
-    "revision": "6b3e9f4c3092cc57a170",
+    "revision": "22f3a22fe87edc4939d8",
     "url": "/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "a4a6a924e2d44f3064e3",
-    "url": "/static/css/main.bf4fc6c5.chunk.css"
+    "revision": "3490a098ee2959906cfd",
+    "url": "/static/css/main.e4a971b5.chunk.css"
   },
   {
-    "revision": "6b3e9f4c3092cc57a170",
-    "url": "/static/js/2.2c60530a.chunk.js"
+    "revision": "22f3a22fe87edc4939d8",
+    "url": "/static/js/2.2dd5125a.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/static/js/2.2c60530a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2dd5125a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a4a6a924e2d44f3064e3",
-    "url": "/static/js/main.49f50cf3.chunk.js"
+    "revision": "3490a098ee2959906cfd",
+    "url": "/static/js/main.622c3236.chunk.js"
   },
   {
     "revision": "4e23075430d083c7aedb",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16343ee03cee0f88e64fb8658e34d7d2",
     "url": "/static/media/Hershal_Satam_Resume.16343ee0.pdf"
+  },
+  {
+    "revision": "17ff77d03b0531ed015a116884e6b906",
+    "url": "/static/media/IMG_9321.17ff77d0.JPG"
   },
   {
     "revision": "efb70cb52ff38300db5a2b1deeacb55b",
